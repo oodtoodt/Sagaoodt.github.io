@@ -1,0 +1,46 @@
+
+* 2017
+** 2017-03 March
+*** 2017-03-03 Friday
+**** CF-363D
+迷啊。从test3到test5、test6、test8，这个题我已经快疯掉了。
+test3是特殊0，0，test5是两个给定数据取小值，test6是左右边界，test8，淦，终于做到test8了，淦淦淦。test半小时了。
+
+Entered on [2017-03-03 Fri 16:03]  
+
+Ended on [2017-03-03 Fri 16:06]
+**** 我找到问题了！
+其实是二分到最后的时候：
+mid = true，l = mid + 1，此时l == r，mid = l/r ，true 则向右，否则向左，但是根本捕捉不到这个最后true还是false。向右则取此时的mid值，向左则取左值（移动过的r值）
+其实还有一种情况，mid = false，r = mid - 1，直接把l越过此时取左值（移动过的r值）
+所以哦，淦。
+看题解去了！淦！
+二分在界点，在分类上有各种各样的形式。。。
+比如
+***** 代码
+while(l <= r)
+    {
+        mid = (r + l) / 2;
+        if(ok(mid,a,n))
+        {
+            l = mid + 1;
+        }
+        else
+        {
+            r = mid - 1;
+        }
+    }
+再比如
+***** 代码
+      while(l < r)
+      {
+          int mid = r - (r - l) / 2;//这里的技巧是取两数中间靠右的数。
+          if(cal(mid) >= 0)  l = mid;
+          else r = mid - 1;
+      }
+取l值
+该死的二分，我再去看看。
+
+Entered on [2017-03-03 Fri 16:20]  
+
+Ended on [2017-03-03 Fri 16:31]
