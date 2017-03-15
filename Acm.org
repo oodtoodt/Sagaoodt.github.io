@@ -111,3 +111,87 @@ l+r／2的时候取得的值远远不如一个单值，如果是求跟多个值�
 Entered on [2017-03-09 Thu 22:24]  
 
 Ended on [2017-03-09 Thu 22:24]
+*** 2017-03-10 Friday
+**** 
+***** A
+普通dp，（大家都做出来了TAT）
+T[i]=min(t[i-1]+t[i],t[i-2]+d[i]);
+滚一圈就可以了。
+***** B
+三角形状》？？我日整个题读错无fk说。。一共就做了这一道无怪乎做不出来。gggg。
+我tm以为直接排列，前后递增子序列无fk说。
+nlogn n^2 .
+****** 记题啦
+int pre[N],suf[N]
+
+...
+读取。
+memset(0xef)
+for(int i = 0;i<n;i++)
+{
+   int pos = lower_bound(dp,dp+n,l[i])-dp;
+   dp[pos]=l[i];
+   pre[i]=pos;
+}
+memset(dp,0x3f)
+倒序再来一遍
+dp[pos] = l[i]
+suf[i]=pos;
+
+int mins = INF (=0x3f3f3f3f)
+for(int i )
+   for(int j = i + 1; j < n; j++)
+   {
+      mins = min(mins,n-pre[i]-suf[i]-1)
+   }
+...然后迷之不对。。反正思路是二分。
+
+
+
+
+Entered on [2017-03-10 Fri 20:42]  
+
+Ended on [2017-03-10 Fri 20:42]
+推荐用int，又不能直接乘，最好是字符串
+***** C
+状压dp。
+无fk说。gg
+dp[i][j] =  
+淦，听都没听懂。
+****** 以下天书
+dp[i][j]= 第i轮
+dp[3][110111]=3说明方案数3
+dp[4][111111]
+j循环后层。
+x=j&a[i+1]^a[i+1]能插几个
+a[4]=101111
+100111dp[i+1][j|k]=dp[i][j];
+插一个蜡烛在k
+
+
+第二遍算是简单的了解了一点。
+（似乎是）知道了状压是个什么鬼。
+**** 
+
+Entered on [2017-03-10 Fri 21:08]  
+
+Ended on [2017-03-10 Fri 21:08]
+*** 2017-03-14 Tuesday
+**** 周二
+***** F
+      dijkstra....= =
+***** A
+***** C
+环 bellmanford...= =
+***** D
+最小生成树 把费用/长度设置成0就行。 kruskal....= =
+***** E
+a引爆b则a到b的有向边。
+qiangjienuosiliang？
+rudu为0
+
+
+Entered on [2017-03-14 Tue 20:38]  
+
+Ended on [2017-03-14 Tue 20:38]
+
