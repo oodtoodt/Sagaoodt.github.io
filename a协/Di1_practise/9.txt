@@ -1,0 +1,6 @@
+NEW mickey 99
+NEW mini 88
+MAX
+AVERAGE
+DELETE winnie
+QUIT
