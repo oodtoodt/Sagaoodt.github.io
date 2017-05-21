@@ -1,76 +1,66 @@
-#include <cstdio>
-#include <algorithm>
-#include <iostream>
-#include <map>
-#include <cmath>
-#include <string>
-//#include 
+/*
+  ID: oodt
+  PROG:
+  LANG:C++
+*/
+#include<iostream>
+#include<algorithm>
+#include<cstdio>
+#include<cmath>
+#include<string>
+#include<cstring>
 
 using namespace std;
 
-double h[1000+5];
-int dp_1[1000+5];
-int dp_2[1000+5];
+const int maxx=1005;
+int n,m,k;
+int a[maxx];
+int dp[maxx];
+int dp2[maxx];
 
 int main()
 {
 #ifdef LOCAL
-    freopen("/Users/ecooodt/Desktop/c++ and acm/Di3_lesson/2/input.txt","r",stdin);
+    freopen("/Users/ecooodt/Desktop/c++ and acm/a协/Di3_lesson/2/input.txt","r",stdin);
 #endif
-    memset(dp_1,0,sizeof(dp_1));
-    memset(dp_2,0,sizeof(dp_2));
-    int s;
-    scanf("%d",&s);
-    for(int i = 0; i < s; i++)
+    scanf("%d",&n);
+    for(int i = 0; i < n; i++)
     {
-        scanf("%lf",&h[i]);
+        double k;
+        scanf("%lf",&k);
+        a[i] = k * 100000;
     }
-
-
-    for(int i = 0; i < s; i++)
+    int max1 = 0,max2 = 0;
+//    dp[0] = 1;
+    for(int i = 0; i < n; i++)
     {
-        int maxn = 0;
+        dp[i] = 1;
         for(int j = 0; j < i; j++)
         {
-            if(h[j] < h[i])
-            {
-                maxn = max(maxn,dp_1[j]);
-            }
+            if(a[j] < a[i])
+            dp[i] = max(dp[j] + 1,dp[i]);
         }
-        dp_1[i] = maxn + 1;
+//        max1 = max(max1,dp[i]);
     }
-    int maxn = dp_1[0];
-    for(int i = 0; i < s; i++)
+//    dp2[n-1] = 1;
+    for(int i = n-1; i >= 0; i--)
     {
-#ifdef LOCAL
-        printf("dp_1[%d]=%d\n",i, dp_1[i]);
-#endif
-        if(dp_1[i] > maxn)
-        maxn = dp_1[i];
-    }
-
-
-    for(int i = s-1; i >= 0; i--)
-    {
-        int maxn_2 = 0;
-        for(int j = s-1; j >= i; j--)
+        dp2[i] = 1;
+        for(int j = n-1; j > i; j--)
         {
-            if(h[j] < h[i])
-            {
-                maxn_2 = max(maxn_2,dp_2[j]);
-            }
+            if(a[j] < a[i])
+            dp2[i] = max(dp2[j] + 1, dp2[i]);
         }
-        dp_2[i] = maxn_2 + 1;
+//        max2 = max(max2,dp2[i] + dp[]);
     }
-    int maxn_2 = dp_2[0];
-    for(int i = 0; i < s; i++)
+    int t = 0;
+    for(int i = 0; i < n; i++)
     {
-#ifdef LOCAL
-        printf("dp_2[%d]=%d\n",i, dp_2[i]);
-#endif
-        if(dp_2[i] > maxn_2)
-            maxn_2 = dp_2[i];
+        for(int j = i+1; j < n; j++)
+        {
+            t = max(t, dp[i] + dp2[j]);
+        }
     }
-    maxn = max(maxn,maxn_2);
-    printf("%d\n",s - maxn);
+    printf("%d\n",n-t);
+    return 0;
 }
