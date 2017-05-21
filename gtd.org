@@ -1,4 +1,36 @@
-* Test tasks
-** TODO 使用org
-** TODO 恢复hexo
-** TODO 谷安。。。慕课。。
+* 5.20-6.20
+it may be changed someday, the date of change will be mark down.
+
+** Everyday's Task [2/2]
+  it's something that you have to do everyday. if you didn't finish it , you still have to note it and add the explaination.
+
+*** DONE three hours in programming.
+    CLOSED: [2017-05-21 Sun 18:01] SCHEDULED: <2017-05-20 Sat>
+    - State "DONE"       from "TODO"       [2017-05-21 Sun 18:01]
+   
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2017-06-20 Tue]
+   :END:      
+
+*** DONE ac at least one problem.
+    CLOSED: [2017-05-21 Sun 22:55] SCHEDULED: <2017-05-20 Sat>
+    - State "DONE"       from "TODO"       [2017-05-21 Sun 22:55]
+
+   :PROPERTIES:
+   :STYLE:    habit
+   :LAST_REPEAT: [2017-06-20 Tue]
+   :END:      
+
+
+** the big Task [0/1]
+   That means except acm, the things you have to solve.
+
+*** TODO learn python.
+   SCHEDULED: <2017-05-20 Sat>
+just for you give up halfway.
+you don't have to learn it deeply , but just learn it.
+
+***
+
+
