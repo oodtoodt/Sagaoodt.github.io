@@ -16,13 +16,13 @@ const int maxx=10005;
 int n,m,k;
 struct node{
     int c,p;
-};//a[maxx];
-int c[maxx],p[maxx];
+}a[maxx];
+//int c[maxx],p[maxx];
 int f[maxx];
 int q[maxx];
 int cmp(node a,node b)
 {
-    return a.p > b.p;
+    return a.c < b.c;
 }
 
 int main()
@@ -31,31 +31,26 @@ int main()
     freopen("/Users/ecooodt/Desktop/c++ and acm/test/test4.txt","r",stdin);
 #endif
     scanf("%d%d",&n,&k);
+    int ans = 0;
     for(int i = 0; i < n; i++)
     {
-        scanf("%d%d",&c[i],&p[i]);
+//        scanf("%d%d",&c[i],&p[i]);
+        scanf("%d%d",&a[i].c,&a[i].p);
     }
-//    sort(a,a+n,cmp);
+    sort(a,a+n,cmp);
     memset(q,0,sizeof(q));
     for(int i = 0; i < n; i++)
     {
-        for(int j = k; j >= 0; j--)
+        if(a[i].c >= k) break;
+//        printf("%d,%d\n",a[i].c,a[i].p);
+        for(int j = i+1; j < n; j++)
         {
-            if(j - c[i] >= 0)
-            {
-                if(f[j] < f[j-c[i]] + p[i])
-                {
-                    if(q[j-c[i]] + 1 == 3) continue;
-                    f[j] = f[j-c[i]]+p[i];
-                    q[j] = q[j-c[i]] + 1;
-                }
-                else f[j] = f[j];
-//                f[j] = max(f[j], f[j-c[i]] + p[i]);
-            }
-            else f[j] = f[j];
-//            printf("f[%d] = %d\n",j,f[j]);
+            if(a[i].c + a[j].c > k) break;
+            if(a[i].c == a[j].c) continue;
+            ans = max(ans,a[i].p+a[j].p);
+//            printf("a[i].p=%d,a[j].p=%d,%d\n",a[i].p,a[j].p,ans);
         }
     }
-    printf("%d",f[k]);
+    printf("%d\n",ans);
     return 0;
 }
