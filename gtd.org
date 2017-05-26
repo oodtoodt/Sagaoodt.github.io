@@ -5,7 +5,12 @@ it may be changed someday, the date of change will be mark down.
   it's something that you have to do everyday. if you didn't finish it , you still have to note it and add the explaination.
 
 *** DONE three hours in programming.
-    CLOSED: [2017-05-21 Sun 18:01] SCHEDULED: <2017-05-20 Sat>
+    CLOSED: [2017-05-26 Fri 21:59] SCHEDULED: <2017-05-20 Sat>
+    - State "DONE"       from "DONE"       [2017-05-26 Fri 21:59]
+    - State "DONE"       from "TODO"       [2017-05-25 Thu 21:53]
+    - State "DONE"       from "TODO"       [2017-05-24 Wed 21:16]
+    - State "DONE"       from "TODO"       [2017-05-23 Tue 21:03]
+    - State "DONE"       from "TODO"       [2017-05-22 Mon 22:26]
     - State "DONE"       from "TODO"       [2017-05-21 Sun 18:01]
    
    :PROPERTIES:
@@ -14,7 +19,11 @@ it may be changed someday, the date of change will be mark down.
    :END:      
 
 *** DONE ac at least one problem.
-    CLOSED: [2017-05-21 Sun 22:55] SCHEDULED: <2017-05-20 Sat>
+    CLOSED: [2017-05-26 Fri 22:00] SCHEDULED: <2017-05-20 Sat>
+    - State "DONE"       from "TODO"       [2017-05-26 Fri 22:00]
+    - State "DONE"       from "TODO"       [2017-05-25 Thu 21:53]
+    - State "DONE"       from "TODO"       [2017-05-24 Wed 21:16]
+    - State "DONE"       from "TODO"       [2017-05-23 Tue 21:03]
     - State "DONE"       from "TODO"       [2017-05-21 Sun 22:55]
 
    :PROPERTIES:
