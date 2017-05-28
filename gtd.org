@@ -1,12 +1,13 @@
 * 5.20-6.20
 it may be changed someday, the date of change will be mark down.
 
-** Everyday's Task [2/2]
+** Everyday's Task [0/2]
   it's something that you have to do everyday. if you didn't finish it , you still have to note it and add the explaination.
 
-*** DONE three hours in programming.
-    CLOSED: [2017-05-26 Fri 21:59] SCHEDULED: <2017-05-20 Sat>
-    - State "DONE"       from "DONE"       [2017-05-26 Fri 21:59]
+*** TODO three hours in programming.
+    SCHEDULED: <2017-05-20 Sat>
+    - State "DONE"       from "TODO"       [2017-05-28 Sun 08:42]
+    - State "DONE"       from "TODO"       [2017-05-26 Fri 21:59]
     - State "DONE"       from "TODO"       [2017-05-25 Thu 21:53]
     - State "DONE"       from "TODO"       [2017-05-24 Wed 21:16]
     - State "DONE"       from "TODO"       [2017-05-23 Tue 21:03]
@@ -18,8 +19,9 @@ it may be changed someday, the date of change will be mark down.
    :LAST_REPEAT: [2017-06-20 Tue]
    :END:      
 
-*** DONE ac at least one problem.
-    CLOSED: [2017-05-26 Fri 22:00] SCHEDULED: <2017-05-20 Sat>
+*** TODO ac at least one problem.
+    SCHEDULED: <2017-05-20 Sat>
+    - State "DONE"       from "TODO"       [2017-05-28 Sun 08:42]
     - State "DONE"       from "TODO"       [2017-05-26 Fri 22:00]
     - State "DONE"       from "TODO"       [2017-05-25 Thu 21:53]
     - State "DONE"       from "TODO"       [2017-05-24 Wed 21:16]
