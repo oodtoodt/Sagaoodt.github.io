@@ -46,7 +46,7 @@ int main()
         for(int j = i+1; j < n; j++)
         {
             if(a[i].c + a[j].c > k) break;
-            if(a[i].c == a[j].c) continue;
+//            if(i == j) continue;
             ans = max(ans,a[i].p+a[j].p);
 //            printf("a[i].p=%d,a[j].p=%d,%d\n",a[i].p,a[j].p,ans);
         }
