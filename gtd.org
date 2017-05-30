@@ -21,6 +21,8 @@ it may be changed someday, the date of change will be mark down.
 
 *** TODO ac at least one problem.
     SCHEDULED: <2017-05-20 Sat>
+    - State "DONE"       from "TODO"       [2017-05-30 Tue 21:51]
+    - State "DONE"       from "TODO"       [2017-05-28 Sun 23:40]
     - State "DONE"       from "TODO"       [2017-05-28 Sun 08:42]
     - State "DONE"       from "TODO"       [2017-05-26 Fri 22:00]
     - State "DONE"       from "TODO"       [2017-05-25 Thu 21:53]
