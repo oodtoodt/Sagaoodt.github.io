@@ -347,3 +347,48 @@ md两个人选礼物啊！不是背包啊！虽然张了个背包的样子啊！
 
 Entered on [2017-05-21 Sun 14:42]  
 Ended on [2017-05-21 Sun 14:42]
+*** 2017-05-31 Wednesday
+**** 
+str.erase(std::remove(str.begin(), str.end(), 'a'), str.end());
+还有这种操作？
+
+bool IsOdd (int i) { return ((i%2)==1); }
+
+int main () {
+  int myints[] = {1,2,3,4,5,6,7,8,9};            // 1 2 3 4 5 6 7 8 9
+
+  // bounds of range:
+  int* pbegin = myints;                          // 
+  int* pend = myints+sizeof(myints)/sizeof(int); // 
+
+  pend = std::remove_if (pbegin, pend, IsOdd);   // 2 4 6 8 
+而且还有这种接受函数的操作。。
+
+日了狗。
+
+哦对了
+
+next_permutation(a,a+n)
+bool next_permutation( iterator start, iterator end );是迭代器哦。 也就是说，
+
+Entered on [2017-05-31 Wed 17:11]  
+Ended on [2017-05-31 Wed 17:11]
+**** mac没电了。。
+全tm新奇操作啊woc
+bitset<10> used = static_cast<bitset<10>>(permute);
+这里bitset
+
+static_cast:显式转换。即强制转换的显式版，但没有保证转换但安全性。
+
+Entered on [2017-05-31 Wed 17:46]  
+Ended on
+** 2017-06 June
+*** 2017-06-01 Thursday
+**** 无论如何还是想记下。。
+bitset真的是好理解的一种位运算。
+00011101,则选第1，3，4，5个数字。
+00000001,则选第1个数字。
+啧啧
+
+Entered on [2017-06-01 Thu 08:42]  
+Ended on
