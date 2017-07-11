@@ -34,7 +34,7 @@ int find_s(int x)
     if(x == father[x]) return x;//自己就是根
     int fx = find_s(father[x]);//寻找并集根
     rak[x] = (rak[x] + rak[father[x]]) % 3;//路径优化
-    father[x] = fx;//
+fof    father[x] = fx;//
     return father[x];//返回根
 }
 
