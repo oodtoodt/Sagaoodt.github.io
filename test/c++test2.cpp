@@ -1,25 +1,31 @@
-#include <cstdio>
+#include<iostream>
+#include<map>
+#include<string>
 
-void swap(int &pa, int &pb);
-void plus(int &pa, int &pb);
-
+using namespace std;
 int main()
 {
-    int pa=3,pb=2;
-    swap(pa,pb);
-    printf("%d ,%d",pa,pb);
-    return 0;
-}
-
-void plus (int &pa, int &pb)
-{
-    pa++;
-    ++pa;
-    pb--;
-    printf("pa=%d,pb=%d\n",pa,pb);
-}
-
-void swap(int &pa, int &pb)
-{
-    plus(pa,pb);
+	int n;
+	char ch;
+	string s;
+	map<string,int > balloon;
+ while(scanf("%d",&n)!=EOF&&n ){
+	while(n--){
+		s="";
+		while(1){
+			scanf("%c",&ch);
+			if(ch=='\n') break;
+			s+=ch;	
+		}
+		if(!balloon.count(s)) balloon[s]=0;
+		balloon[s]++;
+	}
+	map<string,int >::iterator it;
+	for(it=balloon.begin();it!=balloon.end();it++)	{
+		cout<<it->first<<" ";
+		cout<<it->second<<endl;
+	}
+	balloon.clear();
+ }
+	return 0;
 }
