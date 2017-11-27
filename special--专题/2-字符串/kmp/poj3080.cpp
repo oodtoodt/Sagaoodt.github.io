@@ -19,7 +19,7 @@ using namespace std;
 
 const int maxx=65;
 int n,m,k;
-char a[maxx];
+char a[11][maxx];
 int ans = 0,cnt = 0,pos = 0;
 int l = 0,r = 0;
 
@@ -35,13 +35,27 @@ int main()
         scanf("%d",&n);
         for(int i = 0; i < n; i++)
         {
-            scanf("%s",a);
-            int len = strlen(a);
-            char dna[maxx];
-            for(int j = 0; j < len; j++)
+            scanf("%s",a[i]);
+        }
+        int len = strlen(a[0]);
+        char dna[maxx];
+        for(int j = 0; j < len; j++)
+        {
+            for(int k = j+1; k < len; k++)
             {
-                strncmp()
+                if(k - j >= maxl)
+                {
+                    int pos = 0;
+                    for(int q = 0; q < k-j; q++)
+                    {
+                        dna[pos++] = a[0][q];
+                    }
+                }
+                for(int i )
             }
+        }
+        for(int i = 0; i < n; i++)
+        {
             if()
         }
     }

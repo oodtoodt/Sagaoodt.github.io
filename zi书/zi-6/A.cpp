@@ -31,39 +31,44 @@ int main()
 {
 #ifdef LOCAL
     freopen("/Users/ecooodt/Desktop/c++ and acm/zi书/zi-6/A.txt","r",stdin);
+    freopen("/Users/ecooodt/Desktop/c++ and acm/zi书/zi-6/A-.txt","w",stdout);
 #endif
     char ch,ch2;
     scanf("%d",&n);
+    getchar();
     for(int i = 0; i < n; i++)
     {
         init();
-//        getchar();
-        while( (ch = getchar()) && ch != '\n')
+        char ch;
+        string ss;
+        getline(cin,ss);
+//        cout<<ss<<endl;
+        m = ss.size();
+        for(int j = 0; j < m; j++)
         {
+            ch = ss[j];
             if(ok)
                 continue;
-            printf("%c",ch);
+//            printf("%c",ch);
             if(ch == '(' || ch == '[')  s.push(ch);
             else{
                 if(s.empty()){
-                    printf("No\n");
                     ok = true;
-//                    break;
                     continue;
                 }
                 ch2 = s.top();
                 s.pop();
-//printf("%c %c\n",ch,ch2);
                 if(!((ch2 == '(' && ch == ')') || (ch == ']' && ch2 == '['))){
-                    printf("No\n");
                     ok = true;
-//                    break;
                 }
             }
         }
-        cout<<endl;
+        if(!s.empty()) {
+            ok = true;
+        }
         if(!ok)
         printf("Yes\n");
+        else printf("No\n");
     }
     return 0;
 }

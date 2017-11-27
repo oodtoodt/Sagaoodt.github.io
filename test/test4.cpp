@@ -1,56 +1,31 @@
-/*
-  ID: oodt
-  PROG:
-  LANG:C++
-*/
-#include<iostream>
-#include<algorithm>
 #include<cstdio>
-#include<cmath>
 #include<string>
-#include<cstring>
+#include<algorithm>
 
 using namespace std;
 
-const int maxx=10005;
+const int maxx = 1e7 * 3 + 7;
 int n,m,k;
-struct node{
-    int c,p;
-}a[maxx];
-//int c[maxx],p[maxx];
-int f[maxx];
-int q[maxx];
-int cmp(node a,node b)
-{
-    return a.c < b.c;
-}
-
+int a[maxx],b[maxx];
 int main()
 {
-#ifdef LOCAL
-    freopen("/Users/ecooodt/Desktop/c++ and acm/test/test4.txt","r",stdin);
-#endif
-    scanf("%d%d",&n,&k);
-    int ans = 0;
-    for(int i = 0; i < n; i++)
+    scanf("%d%d%d",&n,&m,&k);
+    for(int i = 0; i < m; i++)
     {
-//        scanf("%d%d",&c[i],&p[i]);
-        scanf("%d%d",&a[i].c,&a[i].p);
+        scanf("%d",&a[i]);
     }
-    sort(a,a+n,cmp);
-    memset(q,0,sizeof(q));
-    for(int i = 0; i < n; i++)
+    for(int i = 0; i < k; i++)
     {
-        if(a[i].c >= k) break;
-//        printf("%d,%d\n",a[i].c,a[i].p);
-        for(int j = i+1; j < n; j++)
-        {
-            if(a[i].c + a[j].c > k) break;
-//            if(i == j) continue;
-            ans = max(ans,a[i].p+a[j].p);
-//            printf("a[i].p=%d,a[j].p=%d,%d\n",a[i].p,a[j].p,ans);
-        }
+        scanf("%d",&b[i]);
     }
-    printf("%d\n",ans);
-    return 0;
+    for(int i = 0; i < n-m; i++)
+    {
+        a[m+i] = a[i] + a[i+1];
+    }
+    sort(a,a+n);
+    for(int i = 0; i < k; i++)
+    {
+//        printf("%d ",a[i]);
+        printf("%d\n",a[b[i]-1]);
+    }
 }

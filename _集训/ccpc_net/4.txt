@@ -1,0 +1,11 @@
+5
+aaaaa
+aa
+aaaaa
+aaa
+abababab
+aba
+abcdabcdaabacd
+baaba
+abcdababcdab
+abababbab

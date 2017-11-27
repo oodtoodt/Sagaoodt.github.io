@@ -50,7 +50,7 @@ int main()
         getnext(a,len);
         for(int i = 1; i <= len; i++)
         {
-            //printf("%d ",kmpnext[i]);
+            printf("%d ",kmpnext[i]);
 //            if(i == len) cout<<endl;
         }
         printf("%d\n",len-kmpnext[len]);
