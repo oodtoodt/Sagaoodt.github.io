@@ -6,15 +6,20 @@
 那就是我印象里的家乡啊...
 
 <div  align="center">    
-<img src="https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_171822.jpg" width = "300" height = "200" alt="住的地方里面的巷子" align=center />
+<img src="https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_171822.jpg" width = "1000"  alt="住的地方里面的巷子" align=center />
 </div>
 
 下午吃了螺狮粉，很奇怪的味道......只是等我想起拍照的时候已经快吃完了，就拍了遗照：
-https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_185702.jpg
+
+<div  align="center">    
+<img src="https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_185702.jpg" width = "800"  alt="" align=center />
+</div>
 
 
 还有一点小细节可以体现一些东西。不停会从住处外面向里面投放这样的东西，我第一次目睹两张卡片投放进来的时候也是惊了：
-[[/photo/IMG_20171124_193810.jpg]]
+<div  align="center">    
+<img src="https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_193810.jpg" width = "1000"  alt="可怕如斯" align=center />
+</div>
 
 晚上缩在被窝里，队友出去打游戏了，我后缀自动机看不进去，就开始看stn，真是欢乐且愉快。游戏玩到这种地步可能就已经很好了。
 就像最后看了小岛的一个【不定期更新的电台】，就是喜欢的人在做一些喜欢的事，只是音乐和游戏还是有太多不一样的地方。我当时看这个之前，看了他们做的【十年游戏九年CG】又看了这个，两者的感触截然不同。现场演出的专门一期节目，一共有四首歌，中间的两首听过，第一首是For Those About To Rock，Wake Me Up When September Ends，call me call me，最后一首...Where Did You Sleep Last Night。
