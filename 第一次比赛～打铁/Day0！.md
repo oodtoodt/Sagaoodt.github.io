@@ -5,10 +5,12 @@
 下午到了南宁，发现南宁基本不存在电动车，甚至自行车，清一色的摩托车，那种胖胖的小摩托。南宁大体跟济南差不多，无论从城市建设，街道，小巷等等都有一种...济南的感觉。当然我说的济南已经是几年前的印象了，而不是那个有一条整齐的泉城，有一个经十后的那个济南...大概在我小学到初中就已经成型的济南的印象，在我搬到东边之后，乃至搬到南部之后都没再变过。就像当初到乌鲁木齐的第一印象就是一个人烟稀少的济南一样。
 那就是我印象里的家乡啊...
 
-![住的地方里面的巷子](https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_171822.jpg) {:width="400"}
+<div  align="center">    
+<img src="https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_171822.jpg" width = "300" height = "200" alt="住的地方里面的巷子" align=center />
+</div>
 
 下午吃了螺狮粉，很奇怪的味道......只是等我想起拍照的时候已经快吃完了，就拍了遗照：
-
+https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_185702.jpg
 
 
 还有一点小细节可以体现一些东西。不停会从住处外面向里面投放这样的东西，我第一次目睹两张卡片投放进来的时候也是惊了：
