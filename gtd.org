@@ -1,55 +1,12 @@
-* 5.20-6.20
-it may be changed someday, the date of change will be mark down.
+* Temporary
+** TODO 做好org-mode的gtd文件[1/2]
+   DEADLINE: <2018-03-01 Thu> SCHEDULED: <2018-02-27 Tue 19:10>
+*** DONE org的学习
+    CLOSED: [2018-02-27 Tue 19:18]
+    - State "DONE"       from ""           [2018-02-27 Tue 19:18] \\
+      虽然不完全，但是总要在实践中才能完善
+*** TODO gtd文件的构建
+目前的形态不够完善
 
-** Everyday's Task [0/2]
-  it's something that you have to do everyday. if you didn't finish it , you still have to note it and add the explaination.
-
-*** TODO three hours in programming.
-    SCHEDULED: <2017-05-20 Sat>
-    - State "DONE"       from "TODO"       [2017-06-14 Wed 22:10]
-    - State "DONE"       from "TODO"       [2017-06-07 Wed 20:54]
-    - State "DONE"       from "TODO"       [2017-06-06 Tue 20:49]
-    - State "DONE"       from "TODO"       [2017-06-02 Fri 21:15]
-    - State "DONE"       from "TODO"       [2017-05-31 Wed 22:23]
-    - State "DONE"       from "TODO"       [2017-05-28 Sun 08:42]
-    - State "DONE"       from "TODO"       [2017-05-26 Fri 21:59]
-    - State "DONE"       from "TODO"       [2017-05-25 Thu 21:53]
-    - State "DONE"       from "TODO"       [2017-05-24 Wed 21:16]
-    - State "DONE"       from "TODO"       [2017-05-23 Tue 21:03]
-    - State "DONE"       from "TODO"       [2017-05-22 Mon 22:26]
-    - State "DONE"       from "TODO"       [2017-05-21 Sun 18:01]
-   
-   :PROPERTIES:
-   :STYLE:    habit
-   :LAST_REPEAT: [2017-06-20 Tue]
-   :END:      
-
-*** TODO ac at least one problem.
-    SCHEDULED: <2017-05-20 Sat>
-    - State "DONE"       from "TODO"       [2017-06-14 Wed 22:11]
-    - State "DONE"       from "TODO"       [2017-06-07 Wed 20:54]
-    - State "DONE"       from "TODO"       [2017-06-06 Tue 20:49]
-    - State "DONE"       from "TODO"       [2017-06-02 Fri 21:15]
-    - State "DONE"       from "TODO"       [2017-05-30 Tue 21:51]
-    - State "DONE"       from "TODO"       [2017-05-28 Sun 23:40]
-    - State "DONE"       from "TODO"       [2017-05-28 Sun 08:42]
-    - State "DONE"       from "TODO"       [2017-05-26 Fri 22:00]
-    - State "DONE"       from "TODO"       [2017-05-25 Thu 21:53]
-    - State "DONE"       from "TODO"       [2017-05-24 Wed 21:16]
-    - State "DONE"       from "TODO"       [2017-05-23 Tue 21:03]
-    - State "DONE"       from "TODO"       [2017-05-21 Sun 22:55]
-
-   :PROPERTIES:
-   :STYLE:    habit
-   :LAST_REPEAT: [2017-06-20 Tue]
-   :END:      
-
-
-** the big Task [0/1]
-   That means except acm, the things you have to solve.
-
-*** TODO learn python.
-   SCHEDULED: <2017-05-20 Sat>
-just for you give up halfway.
-you don't have to learn it deeply , but just learn it.
-
+* Long-term
+所以什么叫长呢——我以为就是以学期为单位乃至无限期制的任务（笑）
