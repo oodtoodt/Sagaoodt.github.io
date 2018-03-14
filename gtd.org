@@ -1,12 +1,159 @@
 * Temporary
-** TODO 做好org-mode的gtd文件[1/2]
-   DEADLINE: <2018-03-01 Thu> SCHEDULED: <2018-02-27 Tue 19:10>
+** acm
+*** DONE [#A] 做完最短路的一套题                                                :acm:
+   CLOSED: [2018-03-03 Sat 00:01] DEADLINE: <2018-03-02 Fri> SCHEDULED: <2018-02-28 Wed 12:53>
+   - State "DONE"       from "desolate"   [2018-03-04 Sun 12:38] \\
+     越往后内容越困难了，比如最小环，比如和最大流相干，比如差分约束。
+     剩了几个内容，就上面那几个+spfa。勉强算完成了吧，做的有些乏了，改下思路先开下一套题吧。
+   - State "desolate"   from "TODO"       [2018-03-03 Sat 00:01] \\
+     是我的错。我尽量明天弥补吧。
+     今天实在是蠢。
+   :LOGBOOK:  
+   CLOCK: [2018-02-28 Wed 19:38]--[2018-02-28 Wed 21:54] =>  2:16 \\ 虽然中间走神啊，听歌啊还是不少，不过可以可以，做了一半了！！！！
+   CLOCK: [2018-02-28 Wed 18:34]--[2018-02-28 Wed 19:35] =>  1:01
+   CLOCK: [2018-02-28 Wed 14:07]--[2018-02-28 Wed 14:24] =>  0:17 \\
+   做了一道，看了看以前的题。嗯没这个意识去开计时器，下次下次。
+   :END:      
+应该不难。这两天时间挺多的。大概10道多的样子。
+
+*** STARTED [#A] 做完并查集的一套题                                             :acm:
+   SCHEDULED: <2018-03-04 Sun> DEADLINE: <2018-03-09 Fri>
+   :LOGBOOK:  
+   CLOCK: [2018-03-06 Tue 16:06]--[2018-03-06 Tue 18:21] =>  2:15
+   :END:      
+[2018-03-05 Mon 21:07] 写了四道，知道了大概的模样。。毕竟原来是开了题分辨出并查集却不会用的状态。
+   
+*** STARTED 做完拓扑的一套题                                                    :acm:
+    DEADLINE: <2018-03-14 Wed> SCHEDULED: <2018-03-13 Tue>
+** 紧急事务
+*** DONE 开两套综合题，开搜索和dp[/]
+    CLOSED: [2018-03-09 Fri 10:53] DEADLINE: <2018-03-09 Fri> SCHEDULED: <2018-03-07 Wed>
+    - State "DONE"       from ""           [2018-03-09 Fri 10:53] \\
+      凉了啊比赛，绝壁凉了
+    
+**** 综合
+**** 搜索
+**** dp
+** 日常事务
+*** DONE 完成棣文给的那套东西。。[0/0]
+   CLOSED: [2018-03-05 Mon 13:07] DEADLINE: <2018-03-05 Mon> SCHEDULED: <2018-03-03 Sat>
+   - State "DONE"       from "TODO"       [2018-03-05 Mon 13:07] \\
+     昨天上午弄完的，前天晚上写到半夜啦。这个也是有点脑残了。。忘记了
+
+*** TODO 设计基类
+*** TODO 派生向量
+从基类通过public继承而派生的向量类模板
+*** TODO 派生字符串类
+从基类通过public继承而派生的字符串模板。
+
+*** DONE [#B] 准备好反思交给老板
+   CLOSED: [2018-03-03 Sat 18:44] SCHEDULED: <2018-03-02 Fri>
+   - State "DONE"       from "TODO"       [2018-03-03 Sat 18:44]
+*** DONE [#A] 做好org-mode的gtd文件[2/2]
+   CLOSED: [2018-02-28 Wed 12:58] DEADLINE: <2018-03-01 Thu> SCHEDULED: <2018-02-27 Tue 19:10>
+   - State "DONE"       from "TODO"       [2018-02-28 Wed 12:58]
 *** DONE org的学习
     CLOSED: [2018-02-27 Tue 19:18]
     - State "DONE"       from ""           [2018-02-27 Tue 19:18] \\
       虽然不完全，但是总要在实践中才能完善
-*** TODO gtd文件的构建
+*** DONE gtd文件的构建
+    CLOSED: [2018-02-28 Wed 12:57]
+    - State "DONE"       from "TODO"       [2018-02-28 Wed 12:57] \\
+      大概算是可以了。具体美观啊，属性啊可以再议
 目前的形态不够完善
 
+** 学校事务
+*** 6级交钱
+    SCHEDULED: <2018-03-16 Fri>
+    
 * Long-term
-所以什么叫长呢——我以为就是以学期为单位乃至无限期制的任务（笑）
+  所以什么叫长呢——我以为就是以学期为单位乃至无限期制的任务（笑）
+** 学期内
+*** TODO 学语言[0/3]
+**** TODO 一门函数式语言
+不知道lisp算不算（笑），haskell从大一上就关注到了，现在还没动手。
+**** TODO 一门c规格外的语言
+不过分吧。棣文要我学jsdom和php，
+**** TODO 一门c规格内的语言
+哪怕是python呢...java也行(−_−＃)
+*** 择一而登堂入室
+| 机器学习 |
+| 密码学   |
+**** 为此需要学习数学知识[0/3]
+***** TODO 数论
+***** TODO 代数
+***** TODO 概率论
+*** TODO 了解信息安全方面的知识
+
+
+* daily
+** 作业[0/3]                                                                    :school:
+*** TODO 信息论
+    SCHEDULED: <2018-03-06 Tue ++1w>
+    - State "DONE"       from "TODO"       [2018-02-28 Wed 10:33] \\
+      第一周似乎没有\(//∇//)\
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-02-28 Wed 10:33]
+    :END:
+*** TODO 数电
+    SCHEDULED: <2018-03-06 Tue ++1w>
+    - State "DONE"       from "TODO"       [2018-02-28 Wed 21:55] \\
+      (´･ω･`)
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-02-28 Wed 21:55]
+    :END:
+*** TODO 数据结构
+    SCHEDULED: <2018-03-19 Mon ++1w>
+    - State "DONE"       from "TODO"       [2018-03-05 Mon 21:06] \\
+      hhh，现场写完！
+    - State "DONE"       from "TODO"       [2018-03-01 Thu 12:27] \\
+      没有
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-03-05 Mon 21:06]
+    :END:
+
+ 
+** 学习   
+*** STARTED 做题                                                                :acm:
+    SCHEDULED: <2018-03-03 Sat +1d>
+    - State "DONE"       from "TODO"       [2018-03-04 Sun 12:44] \\
+      虽然只写了两道，不过不大想动了
+    - State "DONE"       from "STARTED"    [2018-03-04 Sun 01:34] \\
+      嗯今天大概写了7个h吧。。应该还多(´･ω･`)
+    - State "DONE"       from "STARTED"    [2018-02-28 Wed 21:56] \\
+      3h+吧，做的题也就5道。emmm，好像就独立做了两道，还是和之前度娘过的题比较类似的(╯‵□′)╯︵┻。嘛就这样吧
+    :LOGBOOK:  
+    CLOCK: [2018-03-05 Mon 13:07]--[2018-03-05 Mon 19:19] =>  6:12 \\不真实！其实不过2h
+    CLOCK: [2018-03-03 Sat 16:28]--[2018-03-03 Sat 21:40] =>  5:12 \\写不动了！
+    :END:      
+    :PROPERTIES:
+    :LAST_REPEAT: [2018-03-04 Sun 12:44]
+    :END:
+至少一道啦。另外计时啦。
+可以记下做题感受，不要水题(´▽｀)
+*** 看书
+嗯这个随意啦
+*** 探索\(//∇//)\
+    
+** TODO 跑步
+   SCHEDULED: <2018-03-05 Mon ++1d>
+   - State "TODO"       from "TODO"       [2018-03-04 Sun 01:35] \\
+     唉周末就是这样子的。不知道下周开始早操是不是就彻底凉了。。
+   - State "DONE"       from "TODO"       [2018-02-28 Wed 18:16] \\
+     三圈！吃完饭还是有点不行。不大行不大行。主要是好累...好累...
+   :PROPERTIES:
+   :LAST_REPEAT: [2018-03-04 Sun 01:35]
+   :END:
+尽量坚持吧。
+** 娱乐
+   :LOGBOOK:  
+   :END:      
+直接在其中计时。
+*** 看番
+*** STARTED 打游戏
+    :LOGBOOK:  
+    CLOCK: [2018-03-04 Sun 12:45]--[2018-03-05 Mon 13:03] => 24:18\\。。。。。不想说话
+    CLOCK: [2018-03-02 Fri 16:38]--[2018-02-28 Fri 21:45] \\ 其实没那么久...但是还是想不起啊..
+    CLOCK: [2018-02-28 Wed 14:27]--[2018-02-28 Wed 16:20] =>  1:53 \\
+    emmm，实际上比这个早一些就结束了但是忘了关clock...僵硬。
+    :END:      
