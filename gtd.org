@@ -23,8 +23,9 @@
    :END:      
 [2018-03-05 Mon 21:07] 写了四道，知道了大概的模样。。毕竟原来是开了题分辨出并查集却不会用的状态。
    
-*** STARTED 做完拓扑的一套题                                                    :acm:
-    DEADLINE: <2018-03-14 Wed> SCHEDULED: <2018-03-13 Tue>
+*** DONE 做完拓扑的一套题                                                       :acm:
+    CLOSED: [2018-03-14 Wed 16:06] DEADLINE: <2018-03-14 Wed> SCHEDULED: <2018-03-13 Tue>
+    - State "DONE"       from "STARTED"    [2018-03-14 Wed 16:06]
 ** 紧急事务
 *** DONE 开两套综合题，开搜索和dp[/]
     CLOSED: [2018-03-09 Fri 10:53] DEADLINE: <2018-03-09 Fri> SCHEDULED: <2018-03-07 Wed>
