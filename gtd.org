@@ -64,8 +64,9 @@
 目前的形态不够完善
 
 ** 学校事务
-*** 6级交钱
-    SCHEDULED: <2018-03-16 Fri>
+*** DONE 6级交钱
+    CLOSED: [2018-03-19 Mon 00:04] SCHEDULED: <2018-03-16 Fri>
+    - State "DONE"       from ""           [2018-03-19 Mon 00:04]
     
 * Long-term
   所以什么叫长呢——我以为就是以学期为单位乃至无限期制的任务（笑）
@@ -104,13 +105,14 @@
     :LAST_REPEAT: [2018-02-28 Wed 21:55]
     :END:
 *** TODO 数据结构
-    SCHEDULED: <2018-03-19 Mon ++1w>
+    SCHEDULED: <2018-03-26 Mon ++1w>
+    - State "DONE"       from "TODO"       [2018-03-19 Mon 00:05]
     - State "DONE"       from "TODO"       [2018-03-05 Mon 21:06] \\
       hhh，现场写完！
     - State "DONE"       from "TODO"       [2018-03-01 Thu 12:27] \\
       没有
     :PROPERTIES:
-    :LAST_REPEAT: [2018-03-05 Mon 21:06]
+    :LAST_REPEAT: [2018-03-19 Mon 00:05]
     :END:
 
  
