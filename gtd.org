@@ -1,4 +1,5 @@
 * Temporary
+
 ** acm
 *** DONE [#A] 做完最短路的一套题                                                :acm:
    CLOSED: [2018-03-03 Sat 00:01] DEADLINE: <2018-03-02 Fri> SCHEDULED: <2018-02-28 Wed 12:53>
@@ -15,9 +16,10 @@
    做了一道，看了看以前的题。嗯没这个意识去开计时器，下次下次。
    :END:      
 应该不难。这两天时间挺多的。大概10道多的样子。
-
-*** STARTED [#A] 做完并查集的一套题                                             :acm:
-   SCHEDULED: <2018-03-04 Sun> DEADLINE: <2018-03-09 Fri>
+*
+*** DONE [#A] 做完并查集的一套题                                                :acm:
+   CLOSED: [2018-03-20 Tue 20:41] SCHEDULED: <2018-03-04 Sun> DEADLINE: <2018-03-09 Fri>
+   - State "DONE"       from "STARTED"    [2018-03-20 Tue 20:41]
    :LOGBOOK:  
    CLOCK: [2018-03-06 Tue 16:06]--[2018-03-06 Tue 18:21] =>  2:15
    :END:      
@@ -26,12 +28,21 @@
 *** DONE 做完拓扑的一套题                                                       :acm:
     CLOSED: [2018-03-14 Wed 16:06] DEADLINE: <2018-03-14 Wed> SCHEDULED: <2018-03-13 Tue>
     - State "DONE"       from "STARTED"    [2018-03-14 Wed 16:06]
+*** DONE 拉一套dp的题                                                           :acm:
+    CLOSED: [2018-03-30 Fri 21:48] SCHEDULED: <2018-03-26 Mon> DEADLINE: <2018-03-28 Wed>
+    - State "DONE"       from "TODO"       [2018-03-30 Fri 21:48]
+
+*** desolate 做蓝桥杯题                                                         :acm:
+    CLOSED: [2018-03-30 Fri 21:48] DEADLINE: <2018-03-30 Fri>
+    - State "desolate"   from "TODO"       [2018-03-30 Fri 21:48]
 ** 紧急事务
-*** DONE 开两套综合题，开搜索和dp[/]
+*** desolate 做天梯赛的提高题
+    CLOSED: [2018-03-30 Fri 21:49] SCHEDULED: <2018-03-26 Mon> DEADLINE: <2018-03-28 Wed>
+    - State "desolate"   from "TODO"       [2018-03-30 Fri 21:49]
+*** DONE 开两套综合题，开搜索和dp[0/0]
     CLOSED: [2018-03-09 Fri 10:53] DEADLINE: <2018-03-09 Fri> SCHEDULED: <2018-03-07 Wed>
     - State "DONE"       from ""           [2018-03-09 Fri 10:53] \\
-      凉了啊比赛，绝壁凉了
-    
+      凉了啊比赛，绝壁凉了    
 **** 综合
 **** 搜索
 **** dp
@@ -41,10 +52,16 @@
    - State "DONE"       from "TODO"       [2018-03-05 Mon 13:07] \\
      昨天上午弄完的，前天晚上写到半夜啦。这个也是有点脑残了。。忘记了
 
-*** TODO 设计基类
-*** TODO 派生向量
+**** CANCELLED 设计基类
+    CLOSED: [2018-03-27 Tue 21:19]
+    - State "CANCELLED"  from "TODO"       [2018-03-27 Tue 21:19]
+**** CANCELLED 派生向量
+    CLOSED: [2018-03-27 Tue 21:19]
+    - State "CANCELLED"  from "TODO"       [2018-03-27 Tue 21:19]
 从基类通过public继承而派生的向量类模板
-*** TODO 派生字符串类
+**** CANCELLED 派生字符串类
+    CLOSED: [2018-03-27 Tue 21:19]
+    - State "CANCELLED"  from "TODO"       [2018-03-27 Tue 21:19]
 从基类通过public继承而派生的字符串模板。
 
 *** DONE [#B] 准备好反思交给老板
@@ -63,6 +80,7 @@
       大概算是可以了。具体美观啊，属性啊可以再议
 目前的形态不够完善
 
+*** [#A] 搞清楚比赛地址！
 ** 学校事务
 *** DONE 6级交钱
     CLOSED: [2018-03-19 Mon 00:04] SCHEDULED: <2018-03-16 Fri>
@@ -78,33 +96,33 @@
 不过分吧。棣文要我学jsdom和php，
 **** TODO 一门c规格内的语言
 哪怕是python呢...java也行(−_−＃)
-*** 择一而登堂入室
-| 机器学习 |
-| 密码学   |
+*** TODO [#B] 机器学习/密码学 择一而登堂入室
+ | 机器学习 |
+ | 密码学   |
 **** 为此需要学习数学知识[0/3]
-***** TODO 数论
-***** TODO 代数
-***** TODO 概率论
+***** TODO [#C] 数论
+***** TODO [#C] 代数
+***** TODO [#C] 概率论
 *** TODO 了解信息安全方面的知识
 
 
 * daily
 ** 作业[0/3]                                                                    :school:
-*** TODO 信息论
+*** TODO 信息论                                                                 :school:
     SCHEDULED: <2018-03-06 Tue ++1w>
     - State "DONE"       from "TODO"       [2018-02-28 Wed 10:33] \\
       第一周似乎没有\(//∇//)\
     :PROPERTIES:
     :LAST_REPEAT: [2018-02-28 Wed 10:33]
     :END:
-*** TODO 数电
+*** TODO 数电                                                                   :school:
     SCHEDULED: <2018-03-06 Tue ++1w>
     - State "DONE"       from "TODO"       [2018-02-28 Wed 21:55] \\
       (´･ω･`)
     :PROPERTIES:
     :LAST_REPEAT: [2018-02-28 Wed 21:55]
     :END:
-*** TODO 数据结构
+*** TODO 数据结构                                                               :school:
     SCHEDULED: <2018-03-26 Mon ++1w>
     - State "DONE"       from "TODO"       [2018-03-19 Mon 00:05]
     - State "DONE"       from "TODO"       [2018-03-05 Mon 21:06] \\
@@ -117,8 +135,9 @@
 
  
 ** 学习   
-*** STARTED 做题                                                                :acm:
-    SCHEDULED: <2018-03-03 Sat +1d>
+*** TODO 做题                                                                   :acm:
+    SCHEDULED: <2018-03-04 Sun +1d>
+    - State "DONE"       from "STARTED"    [2018-03-26 Mon 20:43]
     - State "DONE"       from "TODO"       [2018-03-04 Sun 12:44] \\
       虽然只写了两道，不过不大想动了
     - State "DONE"       from "STARTED"    [2018-03-04 Sun 01:34] \\
@@ -130,7 +149,7 @@
     CLOCK: [2018-03-03 Sat 16:28]--[2018-03-03 Sat 21:40] =>  5:12 \\写不动了！
     :END:      
     :PROPERTIES:
-    :LAST_REPEAT: [2018-03-04 Sun 12:44]
+    :LAST_REPEAT: [2018-03-26 Mon 20:43]
     :END:
 至少一道啦。另外计时啦。
 可以记下做题感受，不要水题(´▽｀)
@@ -138,7 +157,7 @@
 嗯这个随意啦
 *** 探索\(//∇//)\
     
-** TODO 跑步
+** TODO 跑步                                                                    :daily:
    SCHEDULED: <2018-03-05 Mon ++1d>
    - State "TODO"       from "TODO"       [2018-03-04 Sun 01:35] \\
      唉周末就是这样子的。不知道下周开始早操是不是就彻底凉了。。
@@ -160,3 +179,14 @@
     CLOCK: [2018-02-28 Wed 14:27]--[2018-02-28 Wed 16:20] =>  1:53 \\
     emmm，实际上比这个早一些就结束了但是忘了关clock...僵硬。
     :END:      
+
+* 比赛
+*** 天梯赛选拔
+*** DONE 蓝桥杯
+    CLOSED: [2018-04-01 Sun 15:57]
+    - State "DONE"       from ""           [2018-04-01 Sun 15:57]
+//大概凉了
+*** DONE 天梯赛
+    CLOSED: [2018-03-31 Sat 15:57]
+    - State "DONE"       from ""           [2018-03-31 Sat 15:57]
+//181...这着1队差着30多分，加油吧
