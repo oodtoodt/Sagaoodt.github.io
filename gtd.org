@@ -35,6 +35,22 @@
 *** desolate 做蓝桥杯题                                                         :acm:
     CLOSED: [2018-03-30 Fri 21:48] DEADLINE: <2018-03-30 Fri>
     - State "desolate"   from "TODO"       [2018-03-30 Fri 21:48]
+*** desolate [#B] 做完线段树一套                                                :acm:
+    CLOSED: [2018-04-25 Wed 10:22] DEADLINE: <2018-04-20 Fri> SCHEDULED: <2018-04-10 Tue>
+    - State "desolate"   from "TODO"       [2018-04-25 Wed 10:22] \\
+      完了。这一周真的是状态差
+基本上就是生啃吧hhh
+我放的时间很长了。不过没有下面树的专题来的急。
+*** desolate [#A] 做完划分树、主席树、rmq、伸展树、树链剖分的专题...            :acm:
+    CLOSED: [2018-04-25 Wed 10:22] DEADLINE: <2018-04-25 Wed> SCHEDULED: <2018-04-10 Tue>
+    - State "desolate"   from "TODO"       [2018-04-25 Wed 10:22] \\
+      只做了划分树和rmq，回去补树状数组了。
+因为下周很可能是我讲。极大可能。
+哦我去看了下，是25号。
+
+*** TODO 做完bit的题                                                            :acm:
+    SCHEDULED: <2018-04-25 Wed> DEADLINE: <2018-04-27 Fri>
+
 ** 紧急事务
 *** desolate 做天梯赛的提高题
     CLOSED: [2018-03-30 Fri 21:49] SCHEDULED: <2018-03-26 Mon> DEADLINE: <2018-03-28 Wed>
@@ -46,6 +62,10 @@
 **** 综合
 **** 搜索
 **** dp
+*** DONE [#A] stitp立项--简介
+    CLOSED: [2018-04-13 Fri 16:35] SCHEDULED: <2018-04-10 Tue> DEADLINE: <2018-04-11 Wed>
+    - State "DONE"       from "TODO"       [2018-04-13 Fri 16:35]
+虽然大部分是吴宇晨的活，但是尽量帮下吧。写简介。
 ** 日常事务
 *** DONE 完成棣文给的那套东西。。[0/0]
    CLOSED: [2018-03-05 Mon 13:07] DEADLINE: <2018-03-05 Mon> SCHEDULED: <2018-03-03 Sat>
@@ -158,13 +178,17 @@
 *** 探索\(//∇//)\
     
 ** TODO 跑步                                                                    :daily:
-   SCHEDULED: <2018-03-05 Mon ++1d>
+   SCHEDULED: <2018-04-26 Thu ++1d>
+   - State "DONE"       from "TODO"       [2018-04-25 Wed 10:18] \\
+     昨天晚上跑了两圈。
+   - State "DONE"       from "TODO"       [2018-04-10 Tue 16:36]
+   - State "DONE"       from "TODO"       [2018-04-09 Mon 21:20]
    - State "TODO"       from "TODO"       [2018-03-04 Sun 01:35] \\
      唉周末就是这样子的。不知道下周开始早操是不是就彻底凉了。。
    - State "DONE"       from "TODO"       [2018-02-28 Wed 18:16] \\
      三圈！吃完饭还是有点不行。不大行不大行。主要是好累...好累...
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-04 Sun 01:35]
+   :LAST_REPEAT: [2018-04-25 Wed 10:18]
    :END:
 尽量坚持吧。
 ** 娱乐
@@ -185,8 +209,14 @@
 *** DONE 蓝桥杯
     CLOSED: [2018-04-01 Sun 15:57]
     - State "DONE"       from ""           [2018-04-01 Sun 15:57]
-//大概凉了
+    //大概凉了
+    //[2018-04-14 Sat]更新 居然进了决赛=。=
 *** DONE 天梯赛
     CLOSED: [2018-03-31 Sat 15:57]
     - State "DONE"       from ""           [2018-03-31 Sat 15:57]
-//181...这着1队差着30多分，加油吧
+//181...离着1队差着30多分，加油吧
+*** 校队选拔队伍（邀请赛名额）
+*** wishare杯
+凉的一批。不过题其实也毒性了一些，3题一等....当然还是有点太菜了....吴永琦7题好像？lyy和张松涛都是6题？
+唯一欣慰的是hm1题=。=？
+唉
