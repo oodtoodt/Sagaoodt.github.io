@@ -48,8 +48,10 @@
 因为下周很可能是我讲。极大可能。
 哦我去看了下，是25号。
 
-*** TODO 做完bit的题                                                            :acm:
-    SCHEDULED: <2018-04-25 Wed> DEADLINE: <2018-04-27 Fri>
+*** desolate 做完bit的题                                                        :acm:
+    CLOSED: [2018-05-23 Wed 14:51] SCHEDULED: <2018-04-25 Wed> DEADLINE: <2018-04-27 Fri>
+    - State "desolate"   from "TODO"       [2018-05-23 Wed 14:51] \\
+      QAQ荒废完全是我的锅
 
 ** 紧急事务
 *** desolate 做天梯赛的提高题
@@ -101,6 +103,8 @@
 目前的形态不够完善
 
 *** [#A] 搞清楚比赛地址！
+*** TODO 学习vim的配置和运用
+    SCHEDULED: <2018-05-23 Wed>
 ** 学校事务
 *** DONE 6级交钱
     CLOSED: [2018-03-19 Mon 00:04] SCHEDULED: <2018-03-16 Fri>
@@ -220,3 +224,11 @@
 凉的一批。不过题其实也毒性了一些，3题一等....当然还是有点太菜了....吴永琦7题好像？lyy和张松涛都是6题？
 唯一欣慰的是hm1题=。=？
 唉
+*** DONE 湘潭赛区
+    CLOSED: [2018-05-13 Sun 14:53]
+    - State "DONE"       from ""           [2018-05-13 Sun 14:53] \\
+      嗯，铜牌滚粗
+*** DONE 西安赛区
+    CLOSED: [2018-05-20 Sun 14:53]
+    - State "DONE"       from ""           [2018-05-20 Sun 14:53] \\
+      居然摸了银牌
