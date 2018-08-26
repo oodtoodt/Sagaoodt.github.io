@@ -113,6 +113,7 @@
 * Long-term
   所以什么叫长呢——我以为就是以学期为单位乃至无限期制的任务（笑）
 ** 学期内
+事实上是什么也没做呢。
 *** TODO 学语言[0/3]
 **** TODO 一门函数式语言
 不知道lisp算不算（笑），haskell从大一上就关注到了，现在还没动手。
@@ -130,8 +131,12 @@
 *** TODO 了解信息安全方面的知识
 
 
+
 * daily
-** 作业[0/3]                                                                    :school:
+** desolate 作业[0/3]                                                           :school:
+   CLOSED: [2018-08-20 Mon 16:27]
+   - State "desolate"   from ""           [2018-08-20 Mon 16:27] \\
+     done
 *** TODO 信息论                                                                 :school:
     SCHEDULED: <2018-03-06 Tue ++1w>
     - State "DONE"       from "TODO"       [2018-02-28 Wed 10:33] \\
