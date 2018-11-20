@@ -1,0 +1,64 @@
+
+
+** 字符串
+*** TODO extend_kmp
+*** TODO trie
+**** DONE easy
+     CLOSED: [2018-10-15 Mon 17:09]
+     - State "DONE"       from ""           [2018-10-15 Mon 17:09]
+*** TODO ac_Automaton
+*** TODO 回文自动机
+*** TODO 回文树
+** 图论
+**** 最大流
+***** TODO UVALive 4957 Fake scoreboard
+***** TODO ccpc_net_1008
+
+** 数据结构
+*** TODO 01字典树
+*** TODO lca
+**** DONE 模板
+     CLOSED: [2018-10-15 Mon 17:11]
+     - State "DONE"       from ""           [2018-10-15 Mon 17:11]
+**** DONE 小专题
+     CLOSED: [2018-11-15 Thu 19:29]
+     - State "DONE"       from ""           [2018-11-15 Thu 19:29] \\
+       留一个跳来跳去的鬼题
+***** TODO HDU - 3830 
+*** TODO 树链剖分
+**** DONE 模板
+     CLOSED: [2018-10-15 Mon 17:11] DEADLINE: <2018-10-15 Mon>
+     - State "DONE"       from ""           [2018-10-15 Mon 17:11]
+**** TODO 复杂
+***** TODO Gym - 101630L
+*** TODO dsu on tree
+全称树上启发式合并。也有人说是静态链分治。
+*** TODO lct
+
+*** 线段树
+**** TODO nowk wannafly22 D
+
+** ?
+***** DONE cf #504 E
+      CLOSED: [2018-08-22 Wed 21:21]
+      - State "DONE"       from "TODO"       [2018-08-22 Wed 21:21]
+***** DONE cf ec49 F
+      CLOSED: [2018-08-28 Tue 00:57]
+      - State "DONE"       from "TODO"       [2018-08-28 Tue 00:57]
+***** TODO nowk multi10 F
+***** TODO nowk multi10 H
+***** TODO cf #505 C,D
+
+***** TODO cf codefest 18e,f
+** dp
+
+**** DONE 数位dp
+     CLOSED: [2018-10-15 Mon 17:09]
+     - State "DONE"       from ""           [2018-10-15 Mon 17:09]
+***** TODO UVALive - 5750
+**** 状压dp
+***** TODO nanjing_net_5
+***** DONE duoxiao_3_c
+      CLOSED: [2018-10-21 Sun 19:41]
+      - State "DONE"       from "TODO"       [2018-10-21 Sun 19:41]
+***** TODO 搜索进阶有一题
