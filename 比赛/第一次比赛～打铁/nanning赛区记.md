@@ -15,13 +15,13 @@
 下午吃了螺狮粉，很奇怪的味道......只是等我想起拍照的时候已经快吃完了，就拍了遗照：
 
 <div  align="center">    
-<img src="https://github.com/oodtoodt/Sagaoodt.github.io/tree/master/%E6%AF%94%E8%B5%9B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_185702.jpg" width = "500"  alt="" align=center />
+<img src="https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E6%AF%94%E8%B5%9B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_185702.jpg" width = "500"  alt="" align=center />
 </div>
 
 
 还有一点小细节可以体现一些东西。不停会从住处外面向里面投放这样的东西，我第一次目睹两张卡片投放进来的时候也是惊了：
 <div  align="center">    
-<img src="https://github.com/oodtoodt/Sagaoodt.github.io/tree/master/%E6%AF%94%E8%B5%9B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_193810.jpg" width = "800"  alt="可怕如斯" align=center />
+<img src="https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E6%AF%94%E8%B5%9B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171124_193810.jpg" width = "800"  alt="可怕如斯" align=center />
 </div>
 
 晚上缩在被窝里，队友出去打游戏了，我后缀自动机看不进去，就开始看stn，真是欢乐且愉快。游戏玩到这种地步可能就已经很好了。
@@ -46,7 +46,7 @@
 赛场很大，感觉很好。等到下午热身赛，发现这个赛区好像是二次元专场。主席台那边的大屏幕上：
 
 <div  align="center">    
-<img src="https://github.com/oodtoodt/Sagaoodt.github.io/tree/master/%E6%AF%94%E8%B5%9B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171125_132826.jpg" width = "1000"  alt="二次元" align=center />
+<img src="https://github.com/oodtoodt/Sagaoodt.github.io/blob/master/%E6%AF%94%E8%B5%9B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%AF%94%E8%B5%9B%EF%BD%9E%E6%89%93%E9%93%81/IMG_20171125_132826.jpg" width = "1000"  alt="二次元" align=center />
 </div>
 
 
